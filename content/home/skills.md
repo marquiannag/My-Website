@@ -27,7 +27,7 @@ subtitle = ""
   description = "" 
 
 [[feature]]
-  icon = "fa-project-diagram"
+  icon = "project-diagram"
   icon_pack = "fas"
   name = "Project Management"
   description = ""  
