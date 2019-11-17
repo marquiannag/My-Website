@@ -8,7 +8,7 @@ active = true  # Activate this widget? true/false
 weight = 90  # Order that this section will appear.
 
 title = "Recent Publications"
-subtitle = ""
+subtitle = Loggins-Clay, S., Griffin, M., & Averhart, W. (2018). Black/White Disparities in Pregnant Women in the United States: An examinaHon of risk factors associated with Black/White racial idenHty. Health & Social Care in the Community
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
