@@ -33,13 +33,13 @@ subtitle = ""
   description = ""
 
 [[feature]]
-  icon = "h-square"
+  icon = "notes-medical"
   icon_pack = "fas"
   name = "EHR"
   description = "" 
 
 [[feature]]
-  icon = "sql-project"
+  icon = "sql"
   icon_pack = "fas"
   name = "SQL"
   description = "" 
