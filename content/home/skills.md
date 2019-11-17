@@ -30,6 +30,18 @@ subtitle = ""
   icon = "project-diagram"
   icon_pack = "fas"
   name = "Project Management"
-  description = ""  
+  description = ""
+
+[[feature]]
+  icon = "h-square"
+  icon_pack = "fas"
+  name = "EHR"
+  description = "" 
+
+[[feature]]
+  icon = "sql-project"
+  icon_pack = "fas"
+  name = "SQL"
+  description = "" 
   
 +++
