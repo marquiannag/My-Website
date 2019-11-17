@@ -24,7 +24,7 @@ weight = 90  # Order that this section will appear.
   order = "desc"
 
   # Filter posts by a taxonomy term.
-  #[content.filters]
+  [content.filters]
     tag = ""
     category = ""
     publication_type = ""
