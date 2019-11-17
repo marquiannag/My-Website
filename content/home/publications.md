@@ -22,11 +22,12 @@ subtitle = ""
 
   # Page order. Descending (desc) or ascending (asc) date.
   order = "desc"
-
-page_type = "publication"
-0 = all pages
-offset = 0
-order = "desc"
+  
+[content]
+  page_type = "publication"
+  0 = all pages
+  offset = 0
+  order = "desc"
 
   # Filter posts by a taxonomy term.
   [content.filters]
