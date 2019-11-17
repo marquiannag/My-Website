@@ -8,7 +8,7 @@ active = true  # Activate this widget? true/false
 weight = 90  # Order that this section will appear.
 
 title = "Recent Publications"
-subtitle = "Loggins-Clay, S., Griffin, M., & Averhart, W. (2018). Black/White Disparities in Pregnant Women in the United States: An examinaHon of risk factors associated with Black/White racial idenHty. Health & Social Care in the Community"
+subtitle = ""
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
@@ -22,6 +22,11 @@ subtitle = "Loggins-Clay, S., Griffin, M., & Averhart, W. (2018). Black/White Di
 
   # Page order. Descending (desc) or ascending (asc) date.
   order = "desc"
+
+page_type = "publication"
+0 = all pages
+offset = 0
+order = "desc"
 
   # Filter posts by a taxonomy term.
   [content.filters]
