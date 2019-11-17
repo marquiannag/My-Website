@@ -24,7 +24,7 @@ weight = 90  # Order that this section will appear.
   order = "desc"
 
   # Filter posts by a taxonomy term.
-  [content.filters]
+  #[content.filters]
     tag = ""
     category = ""
     publication_type = ""
@@ -66,6 +66,6 @@ weight = 90  # Order that this section will appear.
  css_class = ""
 +++
 
-{{% alert note %}}
+#{{% alert note %}}
 #Quickly discover relevant content by [filtering publications]({{< ref "/publication/_index.md" >}}).
-{{% /alert %}}
+#{{% /alert %}}
