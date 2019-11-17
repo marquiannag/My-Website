@@ -21,9 +21,9 @@ organizations:
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- 
-- 
-- 
+- Criminology
+- Mass Incarceration
+- Race, Nationality, Ethnicity
 
 education:
   courses:
