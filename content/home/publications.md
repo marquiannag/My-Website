@@ -11,6 +11,9 @@ title = "Recent Publications"
 subtitle = ""
 
 [content]
+
+hugo new --kind publication publication/<my-publication>
+  
   # Page type to display. E.g. post, talk, or publication.
   page_type = "publication"
   
@@ -21,12 +24,6 @@ subtitle = ""
   offset = 0
 
   # Page order. Descending (desc) or ascending (asc) date.
-  order = "desc"
-  
-[content]
-  page_type = "publication"
-  0 = all pages
-  offset = 0
   order = "desc"
 
   # Filter posts by a taxonomy term.
