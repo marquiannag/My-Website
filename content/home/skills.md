@@ -19,11 +19,17 @@ subtitle = ""
   icon_pack = "fab"
   name = "R"
   description = ""
-  
+
 [[feature]]
-  icon = "chart-line"
+  icon = "server"
   icon_pack = "fas"
-  name = "Statistics"
+  name = "Unix"
+  description = ""
+
+[[feature]]
+  icon = "database"
+  icon_pack = "fas"
+  name = "Database Construction"
   description = "" 
 
 [[feature]]
@@ -38,10 +44,5 @@ subtitle = ""
   name = "EHR"
   description = "" 
 
-[[feature]]
-  icon = "sql"
-  icon_pack = "fas"
-  name = "SQL"
-  description = "" 
   
 +++
