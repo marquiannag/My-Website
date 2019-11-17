@@ -24,6 +24,12 @@ subtitle = ""
   icon = "chart-line"
   icon_pack = "fas"
   name = "Statistics"
+  description = "" 
+
+[[feature]]
+  icon = "fa-project-diagram"
+  icon_pack = "fas"
+  name = "Project Management"
   description = ""  
   
 +++
