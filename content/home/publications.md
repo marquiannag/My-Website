@@ -7,13 +7,10 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 90  # Order that this section will appear.
 
-title = "Recent Publications"
-subtitle = ""
+#title = "Recent Publications"
+#subtitle = ""
 
 [content]
-
-hugo new --kind publication publication/<my-publication>
-  
   # Page type to display. E.g. post, talk, or publication.
   page_type = "publication"
   
