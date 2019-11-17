@@ -67,6 +67,6 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Marquianna Griffin is a graduate student at The Ohio State University in the Sociology department. Her research interests include mass incarceration, criminology and race, nationality and ethnicity. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+She has worked in both government and nonprofit settings analyzing large datasets, conducting interviews, supervising research assistants, reviewing technical reports, supporting contract and policy execution, and recouping organizational revenue. 
