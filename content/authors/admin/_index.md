@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: 
 
 interests:
 - Criminology
@@ -41,7 +41,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:griffin.795@osu.edu.
+  link: '#contact'  # For a direct email link, use "mailto:griffin.795@osu.edu
 - icon: twitter
   icon_pack: fab
   link: "https://twitter.com/MarquiannaG"
